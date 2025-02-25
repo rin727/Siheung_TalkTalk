@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%EB%82%B4%EB%A0%88%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC%EC%9D%B4%EB%A6%84/static/css/main.09b67591.css",
-    "main.js": "/%EB%82%B4%EB%A0%88%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC%EC%9D%B4%EB%A6%84/static/js/main.83268771.js",
-    "static/js/453.52ca9479.chunk.js": "/%EB%82%B4%EB%A0%88%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC%EC%9D%B4%EB%A6%84/static/js/453.52ca9479.chunk.js",
-    "index.html": "/%EB%82%B4%EB%A0%88%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC%EC%9D%B4%EB%A6%84/index.html",
-    "main.09b67591.css.map": "/%EB%82%B4%EB%A0%88%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC%EC%9D%B4%EB%A6%84/static/css/main.09b67591.css.map",
-    "main.83268771.js.map": "/%EB%82%B4%EB%A0%88%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC%EC%9D%B4%EB%A6%84/static/js/main.83268771.js.map",
-    "453.52ca9479.chunk.js.map": "/%EB%82%B4%EB%A0%88%ED%8F%AC%EC%A7%80%ED%86%A0%EB%A6%AC%EC%9D%B4%EB%A6%84/static/js/453.52ca9479.chunk.js.map"
+    "main.css": "/Siheung_TalkTalk/static/css/main.09b67591.css",
+    "main.js": "/Siheung_TalkTalk/static/js/main.7594a647.js",
+    "static/js/453.52ca9479.chunk.js": "/Siheung_TalkTalk/static/js/453.52ca9479.chunk.js",
+    "index.html": "/Siheung_TalkTalk/index.html",
+    "main.09b67591.css.map": "/Siheung_TalkTalk/static/css/main.09b67591.css.map",
+    "main.7594a647.js.map": "/Siheung_TalkTalk/static/js/main.7594a647.js.map",
+    "453.52ca9479.chunk.js.map": "/Siheung_TalkTalk/static/js/453.52ca9479.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09b67591.css",
-    "static/js/main.83268771.js"
+    "static/js/main.7594a647.js"
   ]
 }
